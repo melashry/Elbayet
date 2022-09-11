@@ -1,0 +1,217 @@
+.header-search-cart-area{
+    text-align: left;
+}
+.currency-dropdown{
+    left: 0;
+    right: auto;
+    text-align: right;
+}
+.currency-dropdown > li > ul > li > a > img {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.header-cart{
+    left: 0;
+    right: auto;
+}
+.header-style-5 .header-search-cart-area ul > li > a .mini-cart-total {
+    color: #fff;
+    float: left;
+    padding-right: 11px;
+}
+.cart-quantity{
+    right: -12px;
+    left: auto;
+}
+.cart-img{
+    float: right;
+    margin-left: 20px;
+    margin-right: 0;
+}
+.cart-item-remove > a {
+    left: 2px;
+    right: auto;
+}
+.cart-content > span{
+    text-align: right;
+}
+.cart-content .product-name{
+    text-align: right;
+}
+.cart-content .product-quantity{
+    float: right;
+    text-align: right;
+    margin-right: 10px;
+}
+.cart-content > span.product-price {
+    float: right;
+    margin-top: 35px;
+    margin-right: -25px;
+}
+.cart-total{
+    text-align: right;
+}
+.newsletter-form{
+    padding-right: 0;
+}
+.search-error input {
+    padding: 0 15px 0 40px;
+}
+.search-error button{
+    left: 0;
+    right: auto;
+}
+.blog-content{
+    text-align: right;
+}
+footer .social-link ul li{
+	margin-right: 0;
+	margin-left: 30px;
+}
+footer .desc-footer p{
+	text-align: right;
+}
+footer .address-footer p i {
+    padding-left: 15px;
+}
+.link-widget li a:before{
+    content: "\34";
+    margin-left: 5px;
+	margin-right: 0;
+}
+.newsletter-form input{
+	text-align: right;
+}
+.newsletter-form button{
+	left: 0;
+	right: auto;
+}
+.elbayt-product-quantity input{
+    padding-right: 10px;
+}
+.coupon input{
+    text-align: right;
+    padding-right: 10px;
+    margin-left: -4px;
+}
+.cart-page-total ul > li > span {
+    float: left;
+}
+.coupon-accordion h3:before{
+    left: auto;
+    right: 1.5em;
+}
+.coupon-accordion h3{
+    padding-right: 3em !important;
+}
+.nice-select{
+    float: right;
+    text-align: right !important;
+}
+.nice-select:after{
+    left: 12px;
+    right: auto;
+}
+.nice-select .option,
+.nice-select .option:hover, 
+.nice-select .option.focus,
+ .nice-select .option.selected.focus{
+text-align: right;
+}
+.checkout-form-list input[type="text"], 
+.checkout-form-list input[type="password"], 
+.checkout-form-list input[type="email"]{
+padding-right: 10px;
+}
+.create-acc label{
+    padding-right: 5px;
+}
+.ship-different-title h3 label{
+    margin-right: 10px;
+}
+.compare-table .table tbody tr td.pro-desc p {
+    text-align: right;
+}
+.compare-table .table tbody tr td.product-image-title .category,
+.compare-table .table tbody tr td.product-image-title .title{
+    text-align: right;
+    float: right;
+}
+.communication-icon{
+    margin-left: 25px;
+    margin-right: 0;
+}
+.product-content{
+    text-align: right;
+}
+.product-pagination > ul{
+    text-align: left;
+}
+.fa-angle-double-right::before {
+    content: "\f100";
+}
+.login-form form {
+    text-align: right;
+}
+.login-form .input-group-text{
+    border-left: 2px solid #ced4da;
+    border-right: none;
+}
+.grid-list-option .search-button{
+    left: 1px;
+    right: auto;
+}
+.slae-banner-area .col-md-4{
+    padding: 0;
+}
+.product-tab-menu2 ul li {
+    margin-right: 0px;
+    padding-left: 55px;
+}
+.product-slider .owl-nav > button, 
+.blog-slider .owl-nav > button{
+    right: auto;
+    left: 15px;
+}
+.product-slider .owl-nav > .owl-next, 
+.blog-slider .owl-nav > .owl-next {
+    left: 55px;
+    right: auto;
+}
+.product-tab-menu2 ul li a:after{
+    right: 0;
+    left: auto;
+}
+.section-title2{
+    text-align: right;
+}
+.section-title2 h2{
+    border-right: 3px solid #363636;
+    border-left: none;
+    padding-right: 20px;
+}
+.user-name:before {
+    right: -20px;
+    margin-right: 15px;
+}
+.account-dashboard p {
+    padding-right: 25px;
+    text-align: right;
+}
+.dashboard-upper-info [class*="col-"]:not(:last-child) .d-single-info {
+    border-left: 1px solid #ebebeb;
+    border-right: none;
+    padding: 30px 20px;
+}
+.dashboard-list li a.active:after{
+    content: "\f104";
+}
+.address-dash p{
+    padding-right: 0;
+}
+.categori-checkbox ul li a{
+    margin-right: 10px;
+}
+.rc-product-thumb {
+    float: right;
+}

@@ -484,6 +484,7 @@ $('.product-details-images').each(function(){
             centerMode: false,
             centerPadding: 0,
             asNavFor: $thumb,
+            rtl:true
         });
     });
     $('.product-details-thumbs').each(function(){
@@ -499,6 +500,7 @@ $('.product-details-images').each(function(){
             focusOnSelect: true,
             centerMode: true,
             centerPadding: 0,
+            rtl:true,
             prevArrow: '<span class="slick-prev"><i class="fa fa-angle-left"></i></span>',
             nextArrow: '<span class="slick-next"><i class="fa fa-angle-right"></i></span>',
             asNavFor: $details,

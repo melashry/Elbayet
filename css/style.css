@@ -1950,6 +1950,11 @@ ul.cart-items > li {
 /*-------------------------------
     6. Our Collection Area CSS
 --------------------------------*/
+.categorie-collection-img{
+	background: #f4f5f7;
+    height: 200px;
+    width: 100%;
+}
 .collection-bg {
 	background-image: url(../img/bg/home1-bg1.jpg);
 	background-position: center center;
@@ -1957,16 +1962,52 @@ ul.cart-items > li {
 	position: relative;
 	margin-top: 80px;
 }
+.categorie-collection-img h3{
+	font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 30px;
+}
 .categorie-collection-img a {
-	border: 10px solid #fff;
 	display: inline-block;
-	overflow: hidden;
-	max-width: 100%;
+    overflow: hidden;
+    max-width: 100%;
+    margin: 0 24%;
 }
 .categorie-collection-img a img{
-    width: 100%;
+	width: 120px;
+    height: 100px;
     -webkit-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out
+    transition: all 0.3s ease-in-out;
+	margin-top: 20px;
+}
+.big-collection .categorie-collection-img{
+	height: 100%;
+    width: 100%;
+    position: relative;
+}
+.big-collection .categorie-collection-img h3{
+    position: absolute;
+    text-align: center;
+    left: 7%;
+    color: #fff;
+    font-size: 25px;
+}
+.big-collection .categorie-collection-img a{
+	width: 100%;
+    margin: 0;
+    height: 100%;
+}
+.big-collection .categorie-collection-img a img{
+	width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.single-categorie-collection{
+	background: #fff;
+    width: 100%;
+    height: 240px;
+	padding: 20px;
 }
 .single-categorie-collection:hover .categorie-collection-img a img{
     opacity: 0.7;
